@@ -15,7 +15,7 @@ class Testing extends Seeder
     {
         DB::table('testing')->insert([
             'nama' => "akmal",
-            'nomor' => 12,
+            'nomor' => 13,
         ]);
     }
 }
